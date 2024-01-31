@@ -1,0 +1,1 @@
+Please refer: https://github.com/googlesamples/unity-jar-resolver/blob/master/README.md
