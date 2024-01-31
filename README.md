@@ -1,7 +1,7 @@
 ##
 # HelpshiftUnity
 
-Welcome to the `HelpshiftUnity` project! This repository houses the integration of Helpshift's support platform with Unity, enabling Unity developers to easily incorporate customer support features directly into their applications.
+Welcome to the `HelpshiftUnity` project! This repository houses the integration of My Helpshift's support platform (frocode.helpshift) with Unity.
 
 ## Getting Started
 
