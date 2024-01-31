@@ -42,7 +42,7 @@ Refer to the [Helpshift Unity SDK documentation](https://developers.helpshift.co
 - Support for push notifications (requires additional setup)
 
 - ## Images For Results :
-![Screenshot](/Capture%20d'écran%202024-01-31%20222351.png)
-![Screenshot](/Screenshot_2024-01-31-23-31-42-68_af1e0e5b0e3957a5e7042b62686af5cc.jpg)
-![Screenshot](/Screenshot_2024-02-01-00-08-53-68_af1e0e5b0e3957a5e7042b62686af5cc.jpg)
-![Screenshot](/Screenshot_2024-01-31-23-35-09-16_af1e0e5b0e3957a5e7042b62686af5cc.jpg)
+<img src="/Capture%20d'écran%202024-01-31%20222351.png" width="350">
+<img src="/Screenshot_2024-01-31-23-31-42-68_af1e0e5b0e3957a5e7042b62686af5cc.jpg" width="350">
+<img src="/Screenshot_2024-02-01-00-08-53-68_af1e0e5b0e3957a5e7042b62686af5cc.jpg" width="350">
+<img src="/Screenshot_2024-01-31-23-35-09-16_af1e0e5b0e3957a5e7042b62686af5cc.jpg" width="350">
